@@ -1,3 +1,4 @@
+/*For the given array of Strings, print and count all the Strings which has even Number of characters.*/
 package ArrayAssigment;
 
 public class Program5EvenLengthString {

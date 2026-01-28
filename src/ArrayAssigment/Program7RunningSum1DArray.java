@@ -1,3 +1,4 @@
+/*Running sum of 1D array*/
 package ArrayAssigment;
 
 import java.util.Scanner;

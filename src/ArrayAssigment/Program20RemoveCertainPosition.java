@@ -1,3 +1,9 @@
+/*WAJP to remove an element from the certain position of the array.
+
+Q:20
+Original array:10 20 30 40 50 60 70
+Updated array: 10 20 40 50 60 70
+*/
 package ArrayAssigment;
 
 import java.util.Scanner;

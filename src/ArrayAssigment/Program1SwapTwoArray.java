@@ -1,3 +1,6 @@
+/**Q:1
+ WAJP to swap two arrays.
+ */
 package ArrayAssigment;
 
 import java.util.Scanner;

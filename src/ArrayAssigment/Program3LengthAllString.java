@@ -1,3 +1,4 @@
+/**For the given array of Strings, print the length of all the Strings.*/
 package ArrayAssigment;
 
 public class Program3LengthAllString {

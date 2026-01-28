@@ -1,3 +1,7 @@
+/*WAJP to reverse each element of the array.
+Original array:10 20 30 40 50 60 70
+Reversed array:70 60 50 40 30 20 10
+ */
 package ArrayAssigment;
 
 import java.util.Scanner;

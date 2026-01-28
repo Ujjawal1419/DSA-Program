@@ -1,3 +1,9 @@
+/*WAJP to check array is a palindromic array or not. Return true or false accordingly.
+Original array:10 20 30 40 30 20 10
+Output: true
+Original array:10 20 30 40 30 50 107
+
+Output: false*/
 package ArrayAssigment;
 
 import java.util.Scanner;

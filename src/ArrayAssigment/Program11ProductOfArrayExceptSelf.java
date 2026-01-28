@@ -3,7 +3,7 @@ package ArrayAssigment;
 import java.util.Scanner;
 
 
-public class Program10ProductOfArrayExceptSelf {
+public class Program11ProductOfArrayExceptSelf {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.print("Enter the size: ");

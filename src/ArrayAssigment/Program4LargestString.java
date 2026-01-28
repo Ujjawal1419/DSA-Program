@@ -1,3 +1,4 @@
+/*For the given array of Strings, print the largest string.*/
 package ArrayAssigment;
 
 public class Program4LargestString {
